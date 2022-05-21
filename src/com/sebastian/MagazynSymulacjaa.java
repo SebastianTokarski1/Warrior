@@ -4,7 +4,7 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class MagazynSymulacja {
+public class MagazynSymulacjaa {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int a = 1;
